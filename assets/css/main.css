@@ -380,3 +380,23 @@ input[type="button"] {
   top: 0;
   width: 100%;
   left: 0; }
+
+.head_box {
+  with: 100%;
+  hight: 72px;
+  background-color: #192228; }
+  .head_box section {
+    max-width: 1000px;
+    margin: 0px auto;
+    padding: 0px;
+    position: relative;
+    background-color: rgba(255, 255, 255, 0.7);
+    box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.1); }
+  .head_box .logga {
+    position: absolute;
+    float: left; }
+    .head_box .logga .sight_title {
+      top: -10px; }
+  .head_box .head_nav {
+    float: right;
+    padding: -10px; }
