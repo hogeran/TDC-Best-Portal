@@ -13,7 +13,7 @@
   background-position: top;
   background-repeat: no-repeat;
   background-size: cover;
-  padding-bottom: 3em;
+  padding-bottom: 1em;
 
   .hero-logo img {
     height: 4em;
@@ -24,7 +24,7 @@
     @include outer-container;
     @include clearfix;
     margin: auto;
-    padding: 3.5em;
+    padding: 2em;
     text-align: center;
 
     .hero-copy {
